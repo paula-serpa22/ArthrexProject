@@ -28,10 +28,8 @@
 ##  6.Business structure
 
 # 5. Preliminary operational concept of proposed system
-The website job portal should 
+
 ## 5.1 Preliminary operational concept
-
-
 
 ### a) operational policies and constraints
 Arthrex job portal could be a little complicated for students to be able to find opportunites. Currently Arthrex has a separated portal for software engineering positions. A constraint could be that it requres a new page creation maybe a microsite, that is linked to the principal job portal in the website. Also, it would be neccesary to promote in social media this new page so students would find out about it. 
